@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L1WIntsRygZY86+lhQGHGxhE1fGKV7RPP0b7MyhnUmUYEvEJr1Cmj9GvEPO1/aUetX3+K7tCBL0oGb/CamyxLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marco.antonio\\source\\repos\\CetesV1\\CetesV1\\CetesV1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marco.antonio\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
